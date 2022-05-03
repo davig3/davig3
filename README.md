@@ -1,4 +1,4 @@
-## Hola soy Davig3t3, fullstack software developer. 🐱‍💻
+## Hola soy Davig3, fullstack software developer. 🐱‍💻
 <div align="center">
   <a href="https://github.com/davig3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davig3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
