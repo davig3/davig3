@@ -25,6 +25,9 @@
   <a href="https://www.linkedin.com/in/julian-david-441324153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  <img align="center" alt="Davi-Java" height="180em" src="https://static.wixstatic.com/media/946182_36b772e5a5b14e44a43788adc2242cdb~mv2.gif">
+  
  
 </div>
 
