@@ -24,7 +24,7 @@
   <a href = "mailto:davig3t3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julian-david-441324153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
   
   <img align="center" alt="Davi-Java" height="180em" src="https://static.wixstatic.com/media/946182_36b772e5a5b14e44a43788adc2242cdb~mv2.gif">
   
